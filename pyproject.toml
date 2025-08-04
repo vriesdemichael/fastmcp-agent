@@ -1,0 +1,12 @@
+[project]
+name = "fastmcp-agent"
+version = "0.1.0"
+description = "Placeholder uv project"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+]
+
+[tool.uv]
+# placeholder uv configuration for container usage
