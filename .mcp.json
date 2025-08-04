@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "sample": {
+      "url": "http://localhost:3000"
+    }
+  }
+}
